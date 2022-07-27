@@ -31,6 +31,10 @@ pageEncoding="ISO-8859-1"%>
         Employee password is ${employee.password}
     </h2>
 
+    <h2>
+        ${employee}
+    </h2>
+
     </div>
     </body>
     </html>
